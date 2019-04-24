@@ -1,5 +1,5 @@
 #!bin/bash
-# wget https://github.com/niinavi/palvelintenhallinta_repo/minion.sh
+# wget https://github.com/niinavi/palvelintenhallinta_repo/blob/master/minion.sh
 # bash minion.sh
 
 sudo apt-get update
